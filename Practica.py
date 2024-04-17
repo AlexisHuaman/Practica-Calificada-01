@@ -17,4 +17,11 @@ while continuar == "SI":
     print("continuar")
     continuar == auxiliar
 
+print("====================== Gestion de Empleados =======================")
+print("|| 1. Visualizar informacion de un empleado.                      ||")
+print("|| 2. Mostrar empleado cuyo tiempo en la empresa sea el menor     ||")
+print("|| 3. Actualizar salario de un empleado                           ||")
+print("|| 4. Terminar programa                                           ||")
+print("====================================================================")
+
 print("Se termino la ejecucion del programa")
