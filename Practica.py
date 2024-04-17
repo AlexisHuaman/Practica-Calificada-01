@@ -17,4 +17,4 @@ while continuar == "SI":
     print("continuar")
     continuar == auxiliar
 
-print("Acabo el")
+print("Se termino la ejecucion del programa")
